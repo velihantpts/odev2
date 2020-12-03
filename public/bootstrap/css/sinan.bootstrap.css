@@ -433,7 +433,7 @@ cite {
 }
 
 .text-success {
-  color: #ffffff;
+  color: white
 }
 
 .text-info {
@@ -5781,7 +5781,8 @@ a.list-group-item:focus {
 
 .panel-footer {
   padding: 10px 15px;
-  background-color: #18cbd8;
+  background-color:#ea434a;
+ 
   border-top: 1px solid #0d747c;
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
